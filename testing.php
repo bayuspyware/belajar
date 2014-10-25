@@ -1,1 +1,3 @@
-testing.php
+<?php 
+ $tambah = "tambah";
+?>
